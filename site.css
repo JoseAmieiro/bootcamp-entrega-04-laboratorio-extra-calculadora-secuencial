@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+header {
+    text-align: center;
+    margin: 0 auto;
+}
+div {
+
+    display: flex;
+    justify-content: center;
+}
+
+.operandos {
+    display: flex;
+    justify-content: center;
+}
+.igual {
+    background-color: rgb(128, 126, 123);
+    border-color: rgb(128, 126, 123);
+}
+
+.resultado {
+    margin-top: 3%;
+}
+
